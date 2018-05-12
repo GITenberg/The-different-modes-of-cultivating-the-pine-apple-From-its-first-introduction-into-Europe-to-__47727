@@ -1,10 +1,16 @@
 _repo: The-different-modes-of-cultivating-the-pine-apple-From-its-first-introduction-into-Europe-to-__47727
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 47727-h/images/cover.jpg
 creator:
   author:
     agent_name: Loudon, John Claudius
     gutenberg_agent_id: '44446'
     url: http://www.gutenberg.org/2009/agents/44446
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47727#The-different-modes-of-cultivating-the-pine-apple-From-its-first-introduction-into-Europe-to-_
 gutenberg_issued: '2014-12-20'
 gutenberg_type: Text
 identifiers:
